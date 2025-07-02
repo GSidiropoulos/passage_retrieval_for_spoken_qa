@@ -27,4 +27,4 @@ series = {CIKM '22}
 ```
 
 ## Questions
-If you have any questions, please contact [Georgios Sidiropoulos](mailto:g.sidiropoulos@uva.nl).
+If you have any questions, please contact [Georgios Sidiropoulos](mailto:gn.sidiro@yahoo.com).
